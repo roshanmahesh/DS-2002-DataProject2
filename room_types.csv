@@ -1,0 +1,11 @@
+room_type_id,room_code,room_name,base_rate_tier
+1,A,Standard Room,Standard
+2,B,Economy Room,Budget
+3,C,Comfort Room,Standard
+4,D,Deluxe Room,Premium
+5,E,Executive Suite,Premium
+6,F,Family Room,Premium
+7,G,Grand Suite,Luxury
+8,H,Honeymoon Suite,Luxury
+9,L,Luxury Penthouse,Luxury
+10,P,Presidential Suite,Luxury
